@@ -1,0 +1,17 @@
+Data cleaning is a common and very important task when working with data.
+
+What you need to do:
+
+First: Open the three data sets below
+
+Second: Clean the data by:
+
+removing rows that have values which are missing,
+changing the data type of some values within a column, and
+removing columns which are not relevant to this task.
+Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+ 
+
+Your end result should be three cleaned data sets. 
+
+If you get stuck, we’ll provide some guidance in the next step. But we encourage you to give it a go first!

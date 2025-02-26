@@ -1,0 +1,8 @@
+Question 1 of 1
+Which three data sets will you need to complete your analysis?
+OPTIONS:
+[A] Reaction, Content, Reaction Types
+[B] Reaction, Content, Profile
+[C] Reaction, Reaction Type, User
+
+ANSWER: OPTION [A]
