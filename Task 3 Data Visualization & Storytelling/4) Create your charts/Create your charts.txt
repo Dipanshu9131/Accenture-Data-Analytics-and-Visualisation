@@ -1,0 +1,13 @@
+Create your charts
+The final step of this task is to populate slides 7 - 10 with your data insights.
+
+If you’ve lost your spreadsheet, we’ve attached one here again for you to use.
+
+We know that the client wants to understand the top 5 content categories. Have a think about what are the best ways to present this? In a pie chart? In a bar chart?
+
+There are also some other interesting insights that we might want to share with them. For example:
+
+How many unique categories are there?
+How many reactions are there to the most popular category?
+What was the month with the most posts?
+If you get stuck, here is a resource on how to make charts in excel.
