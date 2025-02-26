@@ -1,0 +1,31 @@
+Question 1 of 2
+Which statement best describes the business problem that Accenture is tasked to address for this project?
+OPTIONS:
+[A] The clients financial stability has rapidly declined due to COVID-19 and they need to find new market opportunities to increase revenue.
+[B] The client is looking to raise a significant amount of money through private investment and needs support with this.
+[C] The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+[D] The client has reached a massive scale within recent years and is having big issues retaining and hiring the best talent. The client needs help to find out why this problem has arisen.
+
+ANSWER: Option [C]
+
+Question 2 of 2
+Which statement lists the three requirements that Accenture is tasked to fulfill for this project?
+OPTIONS:
+[A] Audit of financial history, IPO recommendations, analysis of popular content
+[B] Big data analytics, recommendations for recruitment, analysis of popular content
+[C] Audit of big data practice, recommendations for IPO, analysis of market opportunities
+[D] Audit of big data practice, recommendations for IPO, analysis of popular content
+
+ANSWER: Option [D]
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 1 of 1
+Which task out of these options is the most relevant to you as a data analyst, and therefore which one will you work on?
+OPTIONS :
+[A] On-site audit of their data-center
+[B] Preparation of best practice document for IPO
+[C] Analysis of sample data sets with visualizations to understand the popularity of different content categories
+[D] Stress testing of their technology to identify weak spots
+
+ANSWER : Option [C]

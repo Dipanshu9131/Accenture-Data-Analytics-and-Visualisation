@@ -1,0 +1,16 @@
+Key roles and responsibilities of a Data Analyst
+A data analyst sits between the business and the data.
+
+What do we mean by that?
+
+The Business refers to the client and your internal team members who won’t be involved in detailed data analysis.
+They rely on your analysis to make strategic business decisions.
+Importantly, not everyone will have a strong understanding of data. Your job is to communicate your data findings simply and clearly for everyone to understand.
+ 
+The Data refers to the relevant data sources that you will clean, process, and use to generate interesting insights for the business.
+
+As a Data Analyst at Accenture, you’ll get to work across a range of different clients and projects. This keeps things interesting, as there are always new problems to solve and new topics to learn about.
+
+However, our clients often want accurate results in a tight timeframe. The pace of work is fast and you’ll need to get up to speed on new projects as quickly as possible.
+
+Now you know a bit more about the role, let’s get back to the project with Social Buzz.

@@ -1,0 +1,8 @@
+Here are some resources to help you
+Here are some key terms if you're curious:
+
+Note: You don’t need to know anything more about Big Data or IPOs for this program.
+
+Big Data refers to large, diverse sets of information that grow at ever-increasing rates. It includes the volume of information, the velocity or speed at which it is created and collected, and the variety or scope of the data points being covered (known as the "three v's" of big data). Source: Investopedia.
+
+An IPO stands for Initial Public Offering - this happens when a private company becomes public by selling its shares on a stock exchange. Source: Investopedia.
